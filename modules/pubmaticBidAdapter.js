@@ -810,3 +810,6 @@ registerBidder(spec);
 
 
 // TODO: Update module: Update the bid adapter to support the new bid response format with viewability and brand safety metrics
+
+
+// TODO: Update module: Update the bid adapter to support the new bid response format with viewability and brand safety metrics
